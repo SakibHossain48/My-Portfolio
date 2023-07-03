@@ -1,0 +1,88 @@
+[
+  {
+    "id": 24324223,
+    "name": "Summer-Music-Camp",
+    "demoUrl": "https://summer-music-camp.web.app/",
+    "githubUrl": "https://github.com/SakibHossain48/Summer-Music-Camp-Client-side.git",
+    "about": "Summer-Music-Camp is a Music studio and school. Where we have world class instructor and their top rated and most valuable classes.",
+    "features": [
+      "Summer-Music-Camp is a Mern-stack project.",
+      "You can see our popular classes and top rated instructors.",
+      "You can select the classes that you want to purchase.",
+      "But If want to purchase a class you have to logged in first.",
+      "Once you are logged in you can select a class and you can see a Dashboard in the top after the classes page.",
+      "Once you select a class now you can purchase that class using cards ( Mastercard, Visa etc. ).",
+      "An admin could make you as an admin or instructor.",
+      "If you are a instructor you can add your own class and you can see your classes and the status of those classes.",
+      "If you are an Admin you can approve/deny/sent feedback of a class which is created by instructors."
+    ],
+    "technologies": [
+      "ReactJS",
+      "ExpressJS",
+      "MongoDB",
+      "TenStack Query ( React Query )",
+      "React Stripe ( Payment Getaway )",
+      "Firebase",
+      "TailwindCSS"
+    ],
+    "images": [
+    ],
+    "category": "mern",
+    "fullPage": "https://i.ibb.co/2g8sH6v/Screenshot-71.png"
+  },
+  {
+    "id": 8273842,
+    "name": "Animagic-Action-Figure",
+    "demoUrl": "https://animagic-action-figure-37901.web.app/",
+    "githubUrl": "https://github.com/SakibHossain48/animagic-action-figure-client-side.git",
+    "about": "Animagic is a superhero toys marketplace where you can find verities of superhero toys.",
+    "features": [
+      "This is a toy eCommerce website where you will find varieties of superhero toys.",
+      "In this project used firebase authentication system for login and registration as well as google login system is there.",
+      "You can see the flash sale for today feature.",
+      "If you want to see ty details you have to make sure that you are authenticated on not.",
+      "Once you are authenticated you can add a new toy for your own and only you can see these toys.",
+      "You can update and delete your toys."
+    ],
+    "technologies": [
+      "ReactJS",
+      "ExpressJS",
+      "MongoDB",
+      "Firebase",
+      "TailwindCSS"
+    ],
+    "images": [
+      
+    ],
+    "category": "mern",
+    "fullPage": "https://i.ibb.co/f9KX1CV/botboy.png"
+  },
+  {
+    "id": 4534536,
+    "name": "The Recipe Room",
+    "demoUrl": "https://the-recipe-room-client.web.app/",
+    "githubUrl": "https://github.com/SakibHossain48/Chef-Recipe--Hunter-Client-side.git",
+    "about": "The Recipe Room is a Full-Stack Web Application where you can find verities of food items.",
+    "features": [
+      "This is a React web application.",
+      "You can add a particular food item to your cart.",
+      "You can purchase these food items by card ( Mastercard, Visa, etc. ).",
+      "This application has a dashboard. As an admin of the application, you can see your current stats of the application.",
+      "You can create/update/delete a food item as an admin.",
+      "As an admin, you can manage users. You can delete or make the user an admin."
+    ],
+    "technologies": [
+      "ReactJS",
+      "ExpressJS",
+      "JSON",
+      "TenStack Query ( React Query )",
+      "Firebase",
+      "TailwindCSS"
+    ],
+    "images": [
+      
+    ],
+    "category": "React",
+    "fullPage": "https://i.ibb.co/6sgncNk/Screenshot-74.png"
+  }
+]
